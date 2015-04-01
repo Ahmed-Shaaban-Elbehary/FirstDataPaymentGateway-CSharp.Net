@@ -1,5 +1,5 @@
 # FirstDataPaymentGateway-CSharp.Net
-A C#  REST based implementation for the FirstData Global Gateway Web Service. Please read the disclaimer section.
+A C#  REST based implementation for the FirstData Global Gateway Web Service. Please read the disclaimer section and LICENSE.
 
 
 
