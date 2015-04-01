@@ -1,0 +1,7 @@
+﻿ 
+<h2>Transaction Result</h2>
+
+@if (TempData["TRANSACTION_STATUS"] != null && TempData["TRANSACTION_STATUS"] == "APPROVED")
+{
+    <div class="alert alert-success">Your transaction has been processed successfully. Thank you.</div>
+}
